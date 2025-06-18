@@ -1,0 +1,8 @@
+*.gguf
+*.ckpt
+*.pt
+*.bin
+__pycache__/
+*.pyc
+.env
+*.ipynb_checkpoints/
