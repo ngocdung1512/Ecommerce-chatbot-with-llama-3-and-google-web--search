@@ -1,4 +1,4 @@
-you can download my model at my hugging face: https://huggingface.co/Lytchbaball/llama-3.2-3b-it-Ecommerce-ChatBot-Q4_K_M-GGUF
+You can download my model at my hugging face: https://huggingface.co/Lytchbaball/llama-3.2-3b-it-Ecommerce-ChatBot-Q4_K_M-GGUF
 
 This project uses a LLaMA model that has been fine-tuned on a specific dataset to assist in answering questions related to commerce (e.g., customer support). 
 
